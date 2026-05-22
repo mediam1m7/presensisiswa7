@@ -36,6 +36,13 @@ const STATUS_COLORS = {
   'Sakit': '#f97316',         // oranye
   'Literasi': '#3b82f6',      // biru
   'Tidak Literasi': '#f43f5e',// merah muda gelap
+  'Shalat': '#0A058A',   // merah
+  'Tidak Shalat': '#535191',          // kuning
+  'Haid': '#CB48B7',         // oranye
+  'Belum Mandi Wajib': '#3C065E',      // biru
+  'Terlambat': '#08010D',// merah muda gelap
+
+
 };
 const DEFAULT_COLOR = '#94a3b8'; // abu-abu untuk status yang tidak terdaftar
 
